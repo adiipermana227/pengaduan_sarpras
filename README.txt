@@ -1,6 +1,6 @@
 **Admin:**
-- Username: Rezka
-- Password: password
+- Username: Admin
+- Password: admin123
 
 **Siswa:**
 - NIS: 123
